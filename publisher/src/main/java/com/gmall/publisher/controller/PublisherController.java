@@ -4,9 +4,6 @@ import com.alibaba.fastjson.JSON;
 import com.gmall.publisher.bean.Option;
 import com.gmall.publisher.bean.Stat;
 import com.gmall.publisher.service.PublisherService;
-import com.star.gmall.publisher.bean.Option;
-import com.star.gmall.publisher.bean.Stat;
-import com.star.gmall.publisher.service.PublisherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

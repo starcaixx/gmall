@@ -1,7 +1,7 @@
 package com.gmall.publisher.service.impl;
 
-import com.star.gmall.constant.GmallConstant;
-import com.star.gmall.publisher.service.PublisherService;
+import com.gmall.constant.GmallConstant;
+import com.gmall.publisher.service.PublisherService;
 import io.searchbox.client.JestClient;
 import io.searchbox.core.Search;
 import io.searchbox.core.SearchResult;

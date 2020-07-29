@@ -6,7 +6,6 @@ import com.alibaba.fastjson.JSON
 import com.gmall.bean.StartUpLog
 import com.gmall.constant.GmallConstant
 import com.gmall.utils.{MyEsUtil, MyKafkaUtil}
-import com.gmall.constant.GmallConstant
 import org.apache.kafka.clients.consumer.ConsumerRecord
 import org.apache.spark.SparkConf
 import org.apache.spark.broadcast.Broadcast
